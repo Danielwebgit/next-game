@@ -13,6 +13,7 @@ export const Header = styled.header`
     }
     
     ul {
+
         display: flex;
         list-style: none;
     }
